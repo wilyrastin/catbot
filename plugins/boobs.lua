@@ -64,7 +64,8 @@ return {
   },
   patterns = {
     "^!boobs$",
-    "^!butts$"
+    "^!sexy$"
+    "^!porn$"
   }, 
   run = run 
 }
