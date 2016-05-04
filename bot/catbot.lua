@@ -224,7 +224,21 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "anti_ads",
+    "anti_bot",
+    "anti_chat",
+    "anti_fosh",
+    "boobs",
+    "botnumber",
+    "calc",
+    "feedback",
+    "filterworld",
+    "google",
+    "info",
+    "left_group",
+    "gps",
+    "leave_ban"
     },
     sudo_users = {205903314},--Sudo users
     disabled_channels = {},
